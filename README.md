@@ -64,7 +64,7 @@ print(result)
 
 
 ## Output :
-![image](https://github.com/Meetha22003992/Ex2---AAI/assets/119401038/63979604-3700-48d6-a64e-a7c74aa7bb05)
+![image](https://github.com/MeethaPrabhu/Ex2---AAI/assets/119401038/88841fdf-6e72-4185-bca7-f447ced4bfa3)
 
 
 ## Result :
